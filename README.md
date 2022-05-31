@@ -23,4 +23,4 @@ Ansible.Sum:SetCallback(function(player, a, b) return a + b end)
 Ansible.Print:Connect(function(player, text) player.Name..' says "'..text..'"' end)
 -- prints `[playername] says "Hello, Ansible!"`
 ```
-See the docs for more information.
+See the [docs](http://dimitriye98.github.io/ansible/) for more information.
